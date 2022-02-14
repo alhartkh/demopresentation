@@ -72,7 +72,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ---
 
 ### Difference between a website and a webapplication
-<img src="images/AppVsSite_Comparison.png" style="float: right" width="500"/>
+<img src="images/AppVsSite_Comparison.png" style="float: right" width="300" height="340"/>
 
 ---
 
