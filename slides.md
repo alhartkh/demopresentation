@@ -72,6 +72,4 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ---
 
 ## Difference between a website and a webapplication
-<!-- .slide: style="text-align: left;"> -->
-- **Library** : It performs a set of  specific and well-defined operations.<br>
-- **Framework**: It is known to be a skeleton where the application defines the content of the operation by filling out the skeleton. The framework only defines the concept but an application further defines the functionality that is useful for end-users<br>
+<img src="AppVsSite_Comparison.png" style="float: right"/>
