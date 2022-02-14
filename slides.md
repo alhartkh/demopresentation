@@ -56,14 +56,14 @@
 <!-- .slide: style="text-align: left;"> -->
 - **Library** : It performs a set of  specific and well-defined operations. Examples : Network protocols, compression, image manipulation, string utilities, regular expression evaluation, math etc<br>
 - **Framework**: It is known to be a skeleton where the application defines the content of the operation by filling out the skeleton. Examples of frameworks: Web application system, Plug-in manager, GUI system. The framework only defines the concept but an application further defines the functionality that is useful for end-users<br>
+
+------
+
 - **Inversion of control**: When we call a method from a library, we are in control. But in framework, the control is inverted i.e. the framework calls us<br>
 <font size="6"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/">https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
 </a></font> 
-
----
-
 
 
 
