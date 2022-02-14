@@ -16,13 +16,13 @@
 
 ## Objectives
 <!-- .slide: style="text-align: left;"> -->
-1.Define webframes (aka frameowkrs)
-2.Understand the difference between frameworks & libraries
-3.Define webapplication (webapps)
-4.Understand the difference between websites & webapps
-5.Evaluate the pros and cons of webframes
-6.compare python popular webframes 
-7.construct a webapps using flask 
+1. Define webframes (aka frameowkrs)
+2. Understand the difference between frameworks & libraries
+3. Define webapplication (webapps)
+4. Understand the difference between websites & webapps
+5. Evaluate the pros and cons of webframes
+6. compare python popular webframes 
+7. construct a webapps using flask 
 
 ---
 
