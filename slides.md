@@ -80,24 +80,38 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ### Difference between front-end and back-end frameworks
 <!-- .slide: style="text-align: left;"> -->
 - **Back-End** :<br>
-  <font size="6">-The frontend is the part of the website visible to the users.<br></a></font> 
-  -Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br>
-  -Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br>
+  <font size="6">- The frontend is the part of the website visible to the users.<br></a></font> 
+  - Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br>
+  - Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br>
 - **Front-End** :<br>
-  -The frontend is the part of the website visible to the users.<br>
-  -Frontend Languages: HTML, CSS, JavaScript, JQuery<br>
-  -Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br>
+  - The frontend is the part of the website visible to the users.<br>
+  - Frontend Languages: HTML, CSS, JavaScript, JQuery<br>
+  - Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br>
   
  ---
  
  ### Types of python webframe works 
  <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
-2. **Micro-framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
+2. **Micro-Framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
 3. **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
 
 ------
 
+## Examples
+
+
+1. **Full Stack Framework**:<br>
+  - Django
+  - Pyramid
+2. **Micro-Framework**:<br>
+  - Bottle
+  - CherryPy
+  - Falcon
+  - Flask
+3. **Asynchronous Framework**:<br>
+  - AIOHTTP
+  - Tornado
 
 
 
