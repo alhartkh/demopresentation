@@ -85,7 +85,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 - **Front-End** :
   -The frontend is the part of the website visible to the users.
   -Frontend Languages – HTML, CSS, JavaScript, JQuery
-  --Frontend Frameworks- React, Vue, BootStrap, Ember, Angular
+  -Frontend Frameworks- React, Vue, BootStrap, Ember, Angular
   
  ---
  
