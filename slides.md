@@ -19,9 +19,9 @@
 * Define webframes (aka web frameowkrs or web development framework "WDF")
 * Understand the difference between frameworks & libraries
 * Understand the difference between websites & webapps
-* Evaluate the pros and cons of webframes
+* Compare the types of frameowkrs
 * Compare popular Python webframes 
-* Construct a webapp using flask 
+* Construct a simple webapp using flask 
 
 ---
 
@@ -71,5 +71,10 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 ---
 
-## Difference between a website and a webapplication
-<img src="images/AppVsSite_Comparison.png" style="float: right"/>
+### Difference between a website and a webapplication
+<img src="images/AppVsSite_Comparison.png" style="float: right" width="500"/>
+
+---
+
+### Difference between frontend and backend frameworks
+
