@@ -60,7 +60,7 @@
 ------
 
 - **Inversion of control**: When we call a method from a library, we are in control. But in framework, the control is inverted i.e. the framework calls us<br>
-<font size="6"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
+<font size="10"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/">https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
 </a></font> 
@@ -73,7 +73,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ---
 
 ### Difference between a website and a webapplication
-<img src="images/AppVsSite_Comparison.png" width="600" height="600"/>
+<img src="images/AppVsSite_Comparison.png" width="700" height="580"/>
 
 ---
 
