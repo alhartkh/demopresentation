@@ -54,7 +54,7 @@
 ## Difference between libraries and frameworks
 <!-- .slide: style="text-align: left;"> -->
 - **Library** : It performs a set of  specific and well-defined operations. Examples : Network protocols, compression, image manipulation, string utilities, regular expression evaluation, math etc<br>
-- **Framework**: It is known to be a skeleton where the application defines the content of the operation by filling out the skeleton. Examples of frameworks: Web application system, Plug-in manager, GUI system. The framework only defines the concept but an application further defines the functionality that is useful for end-users<br>
+- **Framework**: It is known to be a skeleton where the application defines the content of the operation by filling out the skeleton. The framework only defines the concept but an application further defines the functionality that is useful for end-users<br>
 
 ------
 
