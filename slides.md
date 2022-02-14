@@ -123,7 +123,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ## Flask Webapp Code
 
 <pre><code data-line-numbers="1|3|5-7|9-11|13-14">from flask import Flask, render_template
-
+# Starting the app by calling Flask
 app = Flask(__name__)
 
 @app.route('/')
