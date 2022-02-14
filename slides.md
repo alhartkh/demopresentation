@@ -125,15 +125,20 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 <pre><code data-line-numbers="1|3|5-7|9-11|13-14">from flask import Flask, render_template
 # Starting the app by calling Flask
 app = Flask(__name__)
-
+# First: Start the root website from the "/", the first page
+# Second: Name the route "index"
+# Third: Reference the index.html file
 @app.route('/')
 def index():
     return render_template('index.html')
-
+# First: Start the website from the "/ar", the second page
+# Second: Name the route "/ar"
+# Third: Reference the ar.html file
 @app.route('/ar')
 def ar():
     return render_template('ar.html')
-
+# Run the web server and the app
+# '0.0.0.0' ==> The web app is accissible by any device on the local network
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
     
