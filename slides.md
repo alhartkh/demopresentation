@@ -18,7 +18,6 @@
 <!-- .slide: style="text-align: left;"> -->
 * Define webframes (aka web frameowkrs or web development framework "WDF")
 * Understand the difference between frameworks & libraries
-* Define webapplication (webapps)
 * Understand the difference between websites & webapps
 * Evaluate the pros and cons of webframes
 * Compare popular Python webframes 
@@ -65,5 +64,14 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
 </a></font> 
 
+------
 
+- **Library Examples** : Network protocols, compression, image manipulation, string utilities, regular expression evaluation, math etc<br>
+- **Framework Examples**:  Web application system, Plug-in manager, GUI system<br>
 
+---
+
+## Difference between a website and a webapplication
+<!-- .slide: style="text-align: left;"> -->
+- **Library** : It performs a set of  specific and well-defined operations.<br>
+- **Framework**: It is known to be a skeleton where the application defines the content of the operation by filling out the skeleton. The framework only defines the concept but an application further defines the functionality that is useful for end-users<br>
