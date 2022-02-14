@@ -16,7 +16,7 @@
 
 ## Objectives
 <!-- .slide: style="text-align: left;"> -->
-* Define webframes (aka frameowkrs)
+* Define webframes (aka web frameowkrs or web development framework "WDF")
 * Understand the difference between frameworks & libraries
 * Define webapplication (webapps)
 * Understand the difference between websites & webapps
@@ -28,8 +28,20 @@
 
 ## Agenda
 <!-- .slide: style="text-align: left;"> -->
-- Introduction<br>
 - Background<br>
 - Demonistration<br>
 - Summary<br>
 - Q&A<br>
+
+---
+
+## Background 
+
+---
+
+## What are web frames?
+<!-- .slide: style="text-align: left;"> -->
+A web development framework is a set of resources and tools for software<br>
+developers to build and manage web applications, web services and websites<br>
+
+
