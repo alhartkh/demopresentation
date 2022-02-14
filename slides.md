@@ -4,8 +4,20 @@
 
 ## Khalid Alharthi
 
-### SQL Server DBA, Microsoft Data Platform MVP, & Certified Kubernetes Administrator
+### Misk Dsi
+### Team 3
 <!-- .slide: style="text-align: left;"> -->
-<i class="fab fa-twitter"></i><a href="https://twitter.com/alhartkh">  @alhartkh</a><br>
 <i class="fas fa-envelope"></i>  alhartkh@gmail.com<br>
-<i class="fab fa-github"></i><a href="https://github.com/alhartkh>  github.com/alhartkh</a>
+<i class="fab fa-github"></i><a href="https://github.com/alhartkh">  github.com/alhartkh</a>
+
+---
+
+## Objectives
+<!-- .slide: style="text-align: left;"> -->
+Define webframes (aka frameowkrs)
+Understand the difference between frameworks & libraries
+Define webapplication (webapps)
+Understand the difference between websites & webapps
+Evaluate the pros and cons of webframes
+compare python popular webframes 
+construct a webapps using flask 
