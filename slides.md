@@ -96,4 +96,9 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 2. **Micro-framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
 3. **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
 
+------
+
+
+
+
 
