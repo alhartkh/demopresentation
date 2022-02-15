@@ -137,7 +137,7 @@
 ### Step 1: Install Flask
 <pre><code> ! pip3 install flask </pre></code>
 
---- 
+------ 
 
 ### Step 2: Create Directory and Script
 <pre><code>mkdir webapp
@@ -148,7 +148,7 @@ mkdir templates
 touch index.html
 </pre></code>
 
---- 
+------ 
 
 ### Step 3: Write HTML Index Script (Optional)
 <pre><code>mkdir webapp
@@ -156,7 +156,7 @@ cd webapp
 touch app.py
 </pre></code>
 
---- 
+------ 
 
 ### Step 4: Write Python Script
 <pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
@@ -180,7 +180,7 @@ if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
 </pre></code>
 
----
+------
 
 ### Step 5: Run Code (Terminal)
 
@@ -211,6 +211,8 @@ if __name__ == '__main__':
 
 ---
 
+Q&A
 
+---
 
 
