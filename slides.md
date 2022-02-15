@@ -245,7 +245,7 @@ if __name__ == '__main__':
 
 ### Q&A
 
-<img src="images/Q&A.jpeg width="700" height="500"/>
+<img src="images/Q&A.jpeg" width="700" height="500"/>
 
 ---
 
