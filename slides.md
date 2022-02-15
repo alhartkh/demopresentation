@@ -62,10 +62,7 @@
 
 - **Inversion of control**: When we call a method from a library, we are in control. But in framework, the control is inverted i.e. the framework calls us<br>
 
-<font size="4"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
-https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/">https://www.geeksforgeeks.org/software-framework-vs-library/
-https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
-</a></font> 
+<font size="4"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/">https://www.geeksforgeeks.org/software-framework-vs-library/</a></font> 
 
 ------
 
@@ -89,12 +86,12 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
   <font size="6">- The frontend is the part of the website visible to the users.<br></a></font> 
   <font size="6">- Frontend Languages: HTML, CSS, JavaScript, JQuery<br></a></font> 
   <font size="6">- Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br></a></font> 
-  
+
 <font size="4"><a href="https://www.monocubed.com/top-python-frameworks/">https://www.monocubed.com/top-python-frameworks/</a></font> 
  
 ---
  
- ### Types of python webframe works 
+### Types of python webframe works 
  <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
 2. **Micro-Framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
@@ -108,16 +105,16 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework**:<br>
-    - Django<br>
-    - Pyramid<br>
+        - Django<br>
+        - Pyramid<br>
 2. **Micro-Framework**:<br>
-    - Bottle<br>
-    - CherryPy<br>
-    - Falcon<br>
-    - Flask<br>
+      - Bottle<br>
+      - CherryPy<br>
+      - Falcon<br>
+      - Flask<br>
 3. **Asynchronous Framework**:<br>
-    - AIOHTTP<br>
-    - Tornado<br>
+        - AIOHTTP<br>
+        - Tornado<br>
 
 
 ---
