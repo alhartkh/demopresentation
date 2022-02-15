@@ -22,7 +22,7 @@
 * Contrast the types of frameowkrs
 * Classify Python webframes types
 * Compare Python popular webframes  
-* Construct a simple webapp using flask 
+* Construct a simple webapp using Flask 
 
 ---
 
@@ -42,7 +42,7 @@
 ## What are web frames?
 <!-- .slide: style="text-align: left;"> -->
 "A web development framework is a set of resources and tools for software developers to build and manage web applications, web services and websites"<br>
-<font size="6"><a href="https://searchcontentmanagement.techtarget.com/definition/web-development-framework-WDF">https://searchcontentmanagement.techtarget.com/definition/web-development-framework-WDF</a></font> 
+<font size="4"><a href="https://searchcontentmanagement.techtarget.com/definition/web-development-framework-WDF">https://searchcontentmanagement.techtarget.com/definition/web-development-framework-WDF</a></font> 
 
 ---
 
@@ -60,7 +60,7 @@
 ------
 
 - **Inversion of control**: When we call a method from a library, we are in control. But in framework, the control is inverted i.e. the framework calls us<br>
-<font size="10"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
+<font size="5"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/">https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
 </a></font> 
@@ -73,16 +73,16 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ---
 
 ### Difference between a website and a webapplication
-<img src="images/AppVsSite_Comparison.png" width="700" height="580"/>
+<img src="images/AppVsSite_Comparison.png" width="700" height="550"/>
 
 ---
 
 ### Difference between front-end and back-end frameworks
 <!-- .slide: style="text-align: left;"> -->
 - **Back-End** :<br>
-  <font size="6">- The frontend is the part of the website visible to the users.<br></a></font> 
-  - Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br>
-  - Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br>
+  <font size="8">- The frontend is the part of the website visible to the users.<br></a></font> 
+  <font size="10">- Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br></a></font> 
+  <font size="12">- Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br></a></font> 
 - **Front-End** :<br>
   - The frontend is the part of the website visible to the users.<br>
   - Frontend Languages: HTML, CSS, JavaScript, JQuery<br>
@@ -100,7 +100,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 ## Examples
 
-
+<!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework**:<br>
   - Django
   - Pyramid
@@ -122,7 +122,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 ## Flask Webapp Code
 
-<pre><code data-line-numbers="1|3|5-7|9-11|13-14">from flask import Flask, render_template
+<pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
 # Starting the app by calling Flask
 app = Flask(__name__)
 # First: Start the root website from the "/", the first page
@@ -141,7 +141,6 @@ def ar():
 # '0.0.0.0' ==> The web app is accissible by any device on the local network
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
-    
 </pre></code>
 
 ---
