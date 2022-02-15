@@ -72,7 +72,7 @@
 ---
 
 ### Difference between a website and a webapplication
-<img src="images/AppVsSite_Comparison.png" width="700" height="500"/>
+<img src="images/AppVsSite_Comparison1.png" width="700" height="500"/>
 
 ---
 
@@ -238,14 +238,4 @@ if __name__ == '__main__':
 
 ---
 
-<section data-background="https://media3.giphy.com/media/dUHdTk3tvry9NETa67/giphy.gif?cid=ecf05e4769ozm1igct8eixdfbx7u1s3u83gl0b2wvftiflrj&rid=giphy.gif&ct=g">
-						<h2>Q&A</h2>
-					</section>
----
 
-
-<section data-background="images/giphy.gif">
-						<h2>Q&A</h2>
-					</section>
-					
----
