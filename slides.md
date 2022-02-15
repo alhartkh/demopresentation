@@ -42,6 +42,7 @@
 ## What are web frames?
 <!-- .slide: style="text-align: left;"> -->
 "A web development framework is a set of resources and tools for software developers to build and manage web applications, web services and websites"<br>
+
 <font size="4"><a href="https://searchcontentmanagement.techtarget.com/definition/web-development-framework-WDF">https://searchcontentmanagement.techtarget.com/definition/web-development-framework-WDF</a></font> 
 
 ---
