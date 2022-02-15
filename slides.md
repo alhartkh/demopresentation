@@ -126,10 +126,9 @@
 <!-- .slide: style="text-align: left;"> -->
 - **Step 1**: Install Flask
 - **Step 2**: Create Directory and Script
-- **Step 3**: Create HTML Script (Optional)
-- **Step 4**: Write HTML Index Script (Optional)
-- **Step 5**: Write Python Script
-- **Step 6**: Run Code
+- **Step 3**: Write HTML Index Script (Optional)
+- **Step 4**: Write Python Script
+- **Step 5**: Run Code
 
 ---
 
@@ -156,8 +155,12 @@ touch index.html
 ### Step 3: Write HTML Index Script (Optional)
 
 <pre><code>mkdir webapp
-cd webapp
-touch app.py
+<html>
+<body>
+<h1>Python >>>> R</h1>
+<h2>Don't tell Dr. Rick :)</h2>
+</body>
+</html>
 </pre></code>
 
 ---
