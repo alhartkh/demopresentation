@@ -134,11 +134,13 @@
 ---
 
 ### Step 1: Install Flask
+
 <pre><code> ! pip3 install flask </pre></code>
 
 ---
 
 ### Step 2: Create Directory and Script
+
 <pre><code>mkdir webapp
 cd webapp
 touch app.py
@@ -150,6 +152,7 @@ touch index.html
 ---
 
 ### Step 3: Write HTML Index Script (Optional)
+
 <pre><code>mkdir webapp
 cd webapp
 touch app.py
@@ -158,6 +161,7 @@ touch app.py
 ---
 
 ### Step 4: Write Python Script
+
 <pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
 # Starting the app by calling Flask
 app = Flask(__name__)
