@@ -112,7 +112,6 @@
 <font size="6">- These kinds of web frameworks are known as the lightweight framework (non full stack framework).<br></a></font> 
 3. **Asynchronous Framework**:<br>  
 <font size="6">- Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br></a></font> 
-
 <font size="4"><a href="https://www.monocubed.com/10-most-popular-web-frameworks/">https://www.monocubed.com/10-most-popular-web-frameworks/</a></font> 
 
 ---
