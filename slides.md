@@ -166,7 +166,7 @@ touch index.html
 
 ---
 
-### Step 5: Write Python Script
+### Step 4: Write Python Script
 
 <pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
 # Starting the app by calling Flask
@@ -191,7 +191,7 @@ if __name__ == '__main__':
 
 ---
 
-### Step 6: Run Code (Terminal)
+### Step 5: Run Code (Terminal)
 
 <pre><code>python3 app.py
 > Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
