@@ -60,7 +60,7 @@
 ------
 
 - **Inversion of control**: When we call a method from a library, we are in control. But in framework, the control is inverted i.e. the framework calls us<br>
-<font size="5"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
+<font size="4"><a href="https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/">https://www.geeksforgeeks.org/software-framework-vs-library/
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
 </a></font> 
@@ -88,13 +88,16 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
   <font size="6">- Frontend Languages: HTML, CSS, JavaScript, JQuery<br></a></font> 
   <font size="6">- Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br></a></font> 
   
- ---
+<font size="4"><a href="https://www.monocubed.com/top-python-frameworks/">https://www.monocubed.com/top-python-frameworks/</a></font> 
+ 
+---
  
  ### Types of python webframe works 
  <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
 2. **Micro-Framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
 3. **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
+<font size="4"><a href="https://www.monocubed.com/10-most-popular-web-frameworks/">https://www.monocubed.com/10-most-popular-web-frameworks/</a></font> 
 
 ------
 
@@ -102,16 +105,16 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework**:<br>
-    - Django
-     - Pyramid
+    - Django<br>
+    - Pyramid<br>
 2. **Micro-Framework**:<br>
-  - Bottle
-  - CherryPy
-  - Falcon
-  - Flask
+    - Bottle<br>
+    - CherryPy<br>
+    - Falcon<br>
+    - Flask<br>
 3. **Asynchronous Framework**:<br>
-  - AIOHTTP
-  - Tornado
+    - AIOHTTP<br>
+    - Tornado<br>
 
 
 ---
@@ -119,6 +122,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ## Demonistration
 
 ---
+
 ### Process Steps
 <!-- .slide: style="text-align: left;"> -->
 - **Step 1**: Install Flask
@@ -127,10 +131,12 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 - **Step 3**: Write HTML Index Script (Optional)
 - **Step 4**: Write Python Script
 - **Step 5**: Run Code
+
 ---
 
 ### Step 1: Install Flask
 <pre><code> ! pip3 install flask </pre></code>
+
 --- 
 
 ### Step 2: Create Directory and Script
@@ -141,6 +147,7 @@ cd ..
 mkdir templates
 touch index.html
 </pre></code>
+
 --- 
 
 ### Step 3: Write HTML Index Script (Optional)
@@ -148,6 +155,7 @@ touch index.html
 cd webapp
 touch app.py
 </pre></code>
+
 --- 
 
 ### Step 4: Write Python Script
@@ -182,7 +190,10 @@ if __name__ == '__main__':
 > Debugger is active!
 > Debugger pin code: ***-***-***
 </pre></code>
+
 --- 
 
 ## http://127.0.0.1:5000/
+
+
 
