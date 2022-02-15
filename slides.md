@@ -126,10 +126,10 @@
 <!-- .slide: style="text-align: left;"> -->
 - **Step 1**: Install Flask
 - **Step 2**: Create Directory and Script
-- **Step 3**: Create HTML Script
-- **Step 3**: Write HTML Index Script (Optional)
-- **Step 4**: Write Python Script
-- **Step 5**: Run Code
+- **Step 3**: Create HTML Script (Optional)
+- **Step 4**: Write HTML Index Script (Optional)
+- **Step 5**: Write Python Script
+- **Step 6**: Run Code
 
 ---
 
@@ -162,7 +162,7 @@ touch app.py
 
 ---
 
-### Step 4: Write Python Script
+### Step 5: Write Python Script
 
 <pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
 # Starting the app by calling Flask
@@ -187,7 +187,7 @@ if __name__ == '__main__':
 
 ---
 
-### Step 5: Run Code (Terminal)
+### Step 6: Run Code (Terminal)
 
 <pre><code>python3 app.py
 > Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
@@ -198,6 +198,8 @@ if __name__ == '__main__':
 
 
 ## http://127.0.0.1:5000/
+## http://127.0.0.1:5000/ar
+
 
 ---
 
