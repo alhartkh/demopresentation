@@ -30,7 +30,7 @@
 <!-- .slide: style="text-align: left;"> -->
 - Background<br>
 - Demonistration<br>
-- Summary<br>
+- Conclusion<br>
 - Q&A<br>
 
 ---
@@ -185,7 +185,7 @@ if __name__ == '__main__':
 
 ---
 
-### Step 5: Run Code
+### Step 5: Run Code (Terminal)
 
 <pre><code>python3 app.py
 > Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
@@ -197,6 +197,23 @@ if __name__ == '__main__':
 --- 
 
 ## http://127.0.0.1:5000/
+
+---
+
+## Conclusion
+
+---
+
+## What We Learned Today
+<!-- .slide: style="text-align: left;"> -->
+* What webframes are and thier different types
+* That webisites and webframes are not same thing
+* The fundemental difference between librareis and frameworks
+* That Python has webframes and each serve a different function  
+* How to create a simple webapp using Python's Flask webframe
+
+---
+
 
 
 
