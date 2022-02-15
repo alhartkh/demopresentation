@@ -123,18 +123,34 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 <!-- .slide: style="text-align: left;"> -->
 - **Step 1**: Install Flask
 - **Step 2**: Create Directory and Script
+- **Step 3**: Create HTML Script
 - **Step 3**: Write HTML Index Script (Optional)
 - **Step 4**: Write Python Script
 - **Step 5**: Run Code
 ---
 
-###Step 1: Install Flask
-<!-- .slide: style="text-align: left;"> -->
+### Step 1: Install Flask
 <pre><code> ! pip3 install flask </pre></code>
 --- 
 
-## Flask Webapp Code
+### Step 2: Create Directory and Script
+<pre><code> mkdir webapp
+cd webapp
+touch app.py
+cd ..
+mkdir templates
+touch index.html
+</pre></code>
+--- 
 
+### Step 3: Write HTML Index Script (Optional)
+<pre><code> mkdir webapp
+cd webapp
+touch app.py
+</pre></code>
+--- 
+
+### Step 4: Write Python Script
 <pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
 # Starting the app by calling Flask
 app = Flask(__name__)
@@ -157,6 +173,16 @@ if __name__ == '__main__':
 </pre></code>
 
 ---
+
+### Step 5: Run Code
+
+<pre><code> python3 app.py
+> Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+> Restarting with stat
+> Debugger is active!
+> Debugger pin code: ***-***-***
+</pre></code>
+--- 
 
 ## http://127.0.0.1:5000/
 
