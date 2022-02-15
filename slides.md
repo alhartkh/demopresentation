@@ -228,3 +228,9 @@ if __name__ == '__main__':
 ---
 
 <img src="images/giphy.gif" width="700" height="500"/>
+
+---
+
+<section data-background="http://i.giphy.com/90F8aUepslB84.gif">
+						<h2>... and GIFs!</h2>
+					</section>
