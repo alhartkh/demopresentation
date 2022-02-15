@@ -103,7 +103,6 @@
 <font size="4"><a href="https://www.monocubed.com/10-most-popular-web-frameworks/">https://www.monocubed.com/10-most-popular-web-frameworks/</a></font> 
 
 ---
-
  
 ### Types of python web frameworks 
 <!-- .slide: style="text-align: left;"> -->
