@@ -91,6 +91,10 @@
  
 ------
  
+ 
+ 
+ 
+ 
 ### Types of python webframe works 
  <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
@@ -98,6 +102,10 @@
 3. **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
 
 <font size="4"><a href="https://www.monocubed.com/10-most-popular-web-frameworks/">https://www.monocubed.com/10-most-popular-web-frameworks/</a></font> 
+
+
+
+
 
 ------
 
@@ -134,10 +142,20 @@
 
 ---
 
+
+
+
+
 ### Step 1: Install Flask
 <pre><code> ! pip3 install flask </pre></code>
 
+
+
+
+
 ------ 
+
+
 
 ### Step 2: Create Directory and Script
 <pre><code>mkdir webapp
@@ -148,13 +166,23 @@ mkdir templates
 touch index.html
 </pre></code>
 
+
+
 ------ 
+
+
+
+
 
 ### Step 3: Write HTML Index Script (Optional)
 <pre><code>mkdir webapp
 cd webapp
 touch app.py
 </pre></code>
+
+
+
+
 
 ------ 
 
@@ -182,6 +210,8 @@ if __name__ == '__main__':
 
 ------
 
+
+
 ### Step 5: Run Code (Terminal)
 
 <pre><code>python3 app.py
@@ -190,6 +220,8 @@ if __name__ == '__main__':
 > Debugger is active!
 > Debugger pin code: ***-***-***
 </pre></code>
+
+
 
 --- 
 
@@ -213,7 +245,7 @@ if __name__ == '__main__':
 
 ### Q&A
 
-<img src="images/Q&A.jpeg"/>
+<img src="images/Q&A.jpeg"width="700" height="500"/>
 
 ---
 
