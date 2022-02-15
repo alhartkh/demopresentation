@@ -91,8 +91,8 @@
  
 ---
  
-### Types of python webframe works 
- <!-- .slide: style="text-align: left;"> -->
+### Types of python web frameworks 
+<!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
 2. **Micro-Framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
 3. **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
@@ -190,7 +190,6 @@ if __name__ == '__main__':
 > Debugger pin code: ***-***-***
 </pre></code>
 
---- 
 
 ## http://127.0.0.1:5000/
 
@@ -200,7 +199,7 @@ if __name__ == '__main__':
 
 ---
 
-## What We Learned Today
+### What We Learned Today
 <!-- .slide: style="text-align: left;"> -->
 * What webframes are and thier different types
 * That webisites and webframes are not same thing
