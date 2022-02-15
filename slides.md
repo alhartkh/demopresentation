@@ -212,6 +212,7 @@ if __name__ == '__main__':
 ---
 
 Q&A
+<img src="images/Q&A.jpeg"/>
 
 ---
 
