@@ -179,7 +179,7 @@ touch index.html
 
 ### Step 4: Write Python Script
 
-<pre><code data-line-numbers="1|3|7-9|13-15|18-19">from flask import Flask, render_template
+<pre><code>from flask import Flask, render_template
 # Starting the app by calling Flask
 app = Flask(__name__)
 # First: Start the root website from the "/", the first page
