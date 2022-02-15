@@ -96,9 +96,9 @@
 1. **Full Stack Framework**:<br> 
 <font size="6">- Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br></a></font> 
 2. **Micro-Framework**:<br>  
-<font size="6">-These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br></a></font> 
+<font size="6">- These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br></a></font> 
 3. **Asynchronous Framework**:<br> 
-<font size="6">-Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br></a></font> 
+<font size="6">- Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br></a></font> 
 
 <font size="4"><a href="https://www.monocubed.com/10-most-popular-web-frameworks/">https://www.monocubed.com/10-most-popular-web-frameworks/</a></font> 
 
