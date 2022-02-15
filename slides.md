@@ -84,9 +84,9 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 <font size="6">- Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br></a></font> 
 <font size="6">- Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br></a></font> 
 - **Front-End** :<br>
-  - The frontend is the part of the website visible to the users.<br>
-  - Frontend Languages: HTML, CSS, JavaScript, JQuery<br>
-  - Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br>
+  <font size="6">- The frontend is the part of the website visible to the users.<br></a></font> 
+  <font size="6">- Frontend Languages: HTML, CSS, JavaScript, JQuery<br></a></font> 
+  <font size="6">- Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br></a></font> 
   
  ---
  
@@ -102,8 +102,8 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework**:<br>
-  - Django
-  - Pyramid
+    - Django
+     - Pyramid
 2. **Micro-Framework**:<br>
   - Bottle
   - CherryPy
