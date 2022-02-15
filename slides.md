@@ -87,15 +87,15 @@
   <font size="6">- Frontend Languages: HTML, CSS, JavaScript, JQuery<br></a></font> 
   <font size="6">- Frontend Frameworks: React, Vue, BootStrap, Ember, Angular<br></a></font> 
 
-<font size="4"><a href="https://www.monocubed.com/top-python-frameworks/">https://www.monocubed.com/top-python-frameworks/</a></font> 
+<font size="6"><a href="https://www.monocubed.com/top-python-frameworks/">https://www.monocubed.com/top-python-frameworks/</a></font> 
  
 ---
  
 ### Types of python web frameworks 
 <!-- .slide: style="text-align: left;"> -->
-1. **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
-2. **Micro-Framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
-3. **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
+- **Full Stack Framework** : Full stack are one of the best Python web application frameworks, known as one-stop-solution for fulfilling all kinds of app building requirements.<br>
+- **Micro-Framework**: These kinds of web frameworks are known as the lightweight framework (non full stack framework) because they do not offer additional patterns and functionalities compared to a full stack framework.<br>
+- **Asynchronous Framework** : Asynchronous web frameworks are now taking over its place as a microframeworks that allows a user to handle large sets of concurrent connections.<br>
 
 <font size="4"><a href="https://www.monocubed.com/10-most-popular-web-frameworks/">https://www.monocubed.com/10-most-popular-web-frameworks/</a></font> 
 
