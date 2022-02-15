@@ -134,7 +134,7 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 --- 
 
 ### Step 2: Create Directory and Script
-<pre><code> mkdir webapp
+<pre><code>mkdir webapp
 cd webapp
 touch app.py
 cd ..
@@ -144,7 +144,7 @@ touch index.html
 --- 
 
 ### Step 3: Write HTML Index Script (Optional)
-<pre><code> mkdir webapp
+<pre><code>mkdir webapp
 cd webapp
 touch app.py
 </pre></code>
@@ -176,7 +176,7 @@ if __name__ == '__main__':
 
 ### Step 5: Run Code
 
-<pre><code> python3 app.py
+<pre><code>python3 app.py
 > Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 > Restarting with stat
 > Debugger is active!
