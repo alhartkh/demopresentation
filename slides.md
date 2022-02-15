@@ -89,7 +89,7 @@
 
 <font size="4"><a href="https://www.monocubed.com/top-python-frameworks/">https://www.monocubed.com/top-python-frameworks/</a></font> 
  
----
+------
  
 ### Types of python webframe works 
  <!-- .slide: style="text-align: left;"> -->
@@ -105,16 +105,16 @@
 
 <!-- .slide: style="text-align: left;"> -->
 1. **Full Stack Framework**:<br>
-        - Django<br>
-        - Pyramid<br>
+      - Django<br>
+      - Pyramid<br>
 2. **Micro-Framework**:<br>
       - Bottle<br>
       - CherryPy<br>
       - Falcon<br>
       - Flask<br>
 3. **Asynchronous Framework**:<br>
-        - AIOHTTP<br>
-        - Tornado<br>
+      - AIOHTTP<br>
+      - Tornado<br>
 
 
 ---
