@@ -119,6 +119,19 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ## Demonistration
 
 ---
+### Process Steps
+<!-- .slide: style="text-align: left;"> -->
+- **Step 1**: Install Flask
+- **Step 2**: Create Directory and Script
+- **Step 3**: Write HTML Index Script (Optional)
+- **Step 4**: Write Python Script
+- **Step 5**: Run Code
+---
+
+###Step 1: Install Flask
+<!-- .slide: style="text-align: left;"> -->
+<pre><code> ! pip3 install flask </pre></code>
+--- 
 
 ## Flask Webapp Code
 
