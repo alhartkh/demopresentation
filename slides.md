@@ -135,7 +135,9 @@
 
 ### Step 1: Install Flask
 
-<pre><code> ! pip3 install flask </pre></code>
+```
+! pip3 install flask 
+```
 
 ---
 
