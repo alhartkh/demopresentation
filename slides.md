@@ -80,9 +80,9 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 ### Difference between front-end and back-end frameworks
 <!-- .slide: style="text-align: left;"> -->
 - **Back-End** :<br>
-  <font size="8">- The frontend is the part of the website visible to the users.<br></a></font> 
-  <font size="10">- Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br></a></font> 
-  <font size="12">- Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br></a></font> 
+- <font size="6">The frontend is the part of the website visible to the users.<br></a></font> 
+<font size="6">- Backend Languages: Python, JavaScript, PHP, Ruby, .NET<br></a></font> 
+<font size="6">- Backend frameworks: Django, Ruby On Rails, Express, Spring, ASP.NET Core<br></a></font> 
 - **Front-End** :<br>
   - The frontend is the part of the website visible to the users.<br>
   - Frontend Languages: HTML, CSS, JavaScript, JQuery<br>
