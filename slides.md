@@ -154,7 +154,7 @@ touch index.html
 
 ### Step 3: Write HTML Index Script (Optional)
 
-<pre><code>mkdir webapp
+```
 <html>
 <body>
 <h1>Python >>>> R</h1>
@@ -162,6 +162,7 @@ touch index.html
 </body>
 </html>
 </pre></code>
+```
 
 ---
 
