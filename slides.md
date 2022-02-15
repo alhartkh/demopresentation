@@ -227,6 +227,6 @@ if __name__ == '__main__':
 
 ---
 
-<section data-background="http://i.giphy.com/90F8aUepslB84.gif">
-						<h2>... and GIFs!</h2>
+<section data-background="https://media3.giphy.com/media/dUHdTk3tvry9NETa67/giphy.gif?cid=ecf05e4769ozm1igct8eixdfbx7u1s3u83gl0b2wvftiflrj&rid=giphy.gif&ct=g">
+						<h2>Q&A</h2>
 					</section>
